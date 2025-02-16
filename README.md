@@ -49,32 +49,32 @@ TypeScriptを活用したモノレポ構成(フロント/バックエンド/イ�
 ## 📚 主なプロジェクト
 ### 1. ポートフォリオサイト (開発中)
 - 概要: 自身のポートフォリオサイトを開発
-- **使用技術**:
+- 使用技術:
   - デザイン: Figma
   - フロントエンド: TypeScript, React, Next.js
   - バックエンド: TypeScript, Node.js, Notion API
   - インフラ: AWS
-- **URL**: [TBA](-)
-- **リポジトリ**: [GitHub - TBA](-)
+- URL: [TBA](-)
+- リポジトリ: [GitHub - TBA](-)
 
 ### 2. サトWeb (開発中)
 - 概要: 友人のブランディングサイトを開発
-- **使用技術**:
+- 使用技術:
   - デザイン: Figma
   - フロントエンド: TypeScript, React, Next.js
   - インフラ: AWS
-- **URL**: [TBA](-)
-- **リポジトリ**: [GitHub - TBA](-)
+- URL: [TBA](-)
+- リポジトリ: [GitHub - TBA](-)
 
 ### 3. ウェルビーEARTH (開発中)
 - 概要: NPO法人ウェルビーEARTHのホームページを開発
-- **使用技術**:
+- 使用技術:
   - デザイン: Figma
   - フロントエンド: TypeScript, React, Next.js
   - バックエンド: TypeScript, Node.js
   - インフラ: AWS, Terraform
-- **URL**: [TBA](-)
-- **リポジトリ**: [GitHub - TBA](-)
+- URL: [TBA](-)
+- リポジトリ: [GitHub - TBA](-)
 
 ## 🌱 現在学習中
 - AWS資格試験 (各種)
