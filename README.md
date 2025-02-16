@@ -39,6 +39,12 @@ TypeScriptを活用したモノレポ構成(フロント/バックエンド/イ�
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+## 💻 言語使用統計 (publicのみ)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techAn26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/techAn26)
+
+<!-- [![techAn26's GitHub stats](https://github-readme-stats.vercel.app/api?username=techAn26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/techAn26) -->
+
 
 ## 📚 主なプロジェクト
 ### 1. ポートフォリオサイト (開発中)
